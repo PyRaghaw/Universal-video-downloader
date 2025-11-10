@@ -24,7 +24,7 @@ A Python-based tool to download videos from Facebook, Instagram, and YouTube usi
 - Python 3.6 or higher
 - FFmpeg (recommended for best compatibility)
 
-### Step 1: Clone the Repository
+Clone the Repository
 
 ```bash
 ```bash
